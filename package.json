@@ -1,15 +1,14 @@
 {
-  "name": "flex-nav",
+  "name": "flexnav-copy",
   "version": "1.0.0",
-  "description": "A simple navbar",
+  "description": "testing",
   "main": "index.js",
   "scripts": {
-    "start": "browser-sync start --server 'app' --files 'app'"
+    "start": "browser-sync app -w"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Job",
   "license": "ISC",
   "dependencies": {
-    "browser-sync": "^2.26.0"
+    "browser-sync": "^3.0.2"
   }
 }
